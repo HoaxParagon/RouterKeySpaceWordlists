@@ -110,3 +110,5 @@ Domino-XXXX - [0-9A-F] Len: 8
 Netia-XXXXXX - [0-9a-f] Len: 13
 
 Telecom-XXXXXXXX - [not-sure]
+
+HitronXXNNN-EasyConnect - XXXXXHitron [0-9A-?] Len: 11
