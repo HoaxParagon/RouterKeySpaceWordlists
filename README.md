@@ -112,3 +112,6 @@ Netia-XXXXXX - [0-9a-f] Len: 13
 Telecom-XXXXXXXX - [not-sure]
 
 HitronXXNNN-EasyConnect - XXXXXHitron [0-9A-?] Len: 11
+
+CGNM-XNNN-NNNNNNNNNNNN - [0-9] len: 12 (default pass same as serial number)
+
