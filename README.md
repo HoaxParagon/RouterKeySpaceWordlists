@@ -59,7 +59,7 @@ INFINITUM#### - [0-9] Len: 10
 
 NETGEARXX - Adjective + Noun + 3 Digits
 
-CenturyLinkXXXX - [0-9a-f] Len: 14
+CenturyLinkXXXX - [0-9a-f] Len: 14 (this is possibly wrong, found one with an 'x' on a DSL)
 
 BrightBox-XXXXXX - [??] Len: 8
 
