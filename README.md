@@ -116,3 +116,5 @@ HitronXXNNN-EasyConnect - XXXXXHitron [0-9A-?] Len: 11
 CGNM-XXXX - NNNNNNNNNNNN [0-9] len: 12 (default pass same as serial number)
 
 Hitron-XXXX - XXXXXXXXXXXX [0-9A-Z] len: 12
+
+UNE_HFC_XXXX - XXXXXXXX [0-9A-Z] len: 8
